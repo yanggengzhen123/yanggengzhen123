@@ -10,6 +10,12 @@
 - 🔭
 - 🌱
 - 
+### Github 活跃度
+
+[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=yanggengzhen123&show_icons=true&theme=vue)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yanggengzhen123&layout=compact&langs_count=6)
+
 ### **技术栈:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
