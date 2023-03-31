@@ -7,8 +7,9 @@
 
 热爱前端、热爱技术。工作经验5年。喜欢参与一些开源项目的讨论。👋
 
-- 🔭
-- 🌱
+### **社交主页：**
+-   <a href="https://juejin.cn/user/3210229683860455/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>
+
 
 ### **技术栈:**
 
