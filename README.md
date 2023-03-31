@@ -20,7 +20,6 @@
 <a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
 <a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
 <a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
-![](https://raw.githubusercontent.com/aboutmydreams/aboutmydreams/output/github-contribution-grid-snake.svg) 
 
 ### Github 活跃度
 
@@ -28,4 +27,5 @@
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=yanggengzhen123&show_icons=true&theme=vue)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yanggengzhen123&layout=compact&langs_count=6)
 
+![](https://raw.githubusercontent.com/aboutmydreams/aboutmydreams/output/github-contribution-grid-snake.svg) 
 
