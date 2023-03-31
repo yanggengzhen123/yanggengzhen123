@@ -20,6 +20,4 @@
 <a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
 <a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
 <a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
-<a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 ![](https://raw.githubusercontent.com/aboutmydreams/aboutmydreams/output/github-contribution-grid-snake.svg) 
